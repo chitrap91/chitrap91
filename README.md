@@ -26,7 +26,7 @@ A full-stack music streaming platform with secure authentication and cloud-based
 
 🔗 Frontend Repo: [music-player-frontend](https://github.com/chitrap91/music-player-frontend)  
 🔗 Backend Repo: [music-player-backend](https://github.com/chitrap91/music-player-backend)  
-🔗 Live Demo: Pending, working on code refactoring, will deploy once it is done.
+🔗 Live Demo: Pending, working on code refactoring, will be deploying it once done.
 
 ---
 
