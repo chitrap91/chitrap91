@@ -9,7 +9,7 @@ Full Stack Developer with hands-on experience building MERN stack applications a
 - Backend: Node.js, Express
 - Databases: MongoDB, MySQL
 - Cloud & Auth: AWS S3, JWT
-- Tools: Git, GitHub, Postman, VS Code
+- Tools: Git, GitHub, Postman, VS Code, Java Selenium for Automation.
 
 ---
 
