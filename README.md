@@ -1,6 +1,6 @@
 ## 👋 Hi, I'm Chitra Devi
 
-Full Stack Developer with hands-on experience building MERN stack applications and 5+ years of experience in QA Automation and Manual Testing.
+Full Stack Developer with hands-on experience building MERN stack applications and 5 years of experience in QA Automation and Manual Testing.
 
 ---
 
