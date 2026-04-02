@@ -1,7 +1,8 @@
 ## 👋 Hi, I'm Chitra Devi
 
-Full Stack Developer with hands-on experience building MERN stack applications and 5 years of experience in QA Automation and Manual Testing.
+👋 Hi, I'm Chitra Devi
 
+Full Stack Developer with hands-on experience building MERN stack applications 
 ---
 
 ## 🛠 Tech Stack
@@ -51,11 +52,7 @@ A full-stack music streaming platform with secure authentication and cloud-based
 
 ---
 
-## 🧪 QA Background (Strength)
-Before transitioning to full-stack development, I worked as a QA Engineer where I:
-- Built Selenium automation frameworks using Java and Cucumber
-- Collaborated closely with developers in Agile teams
-- Gained strong understanding of application quality and edge cases
+
 
 ---
 
