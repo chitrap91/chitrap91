@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Citra Devi
 
-💻 **Full Stack Developer (Frontend Focus)** with 7+ years of IT experience  
+💻 **Full Stack Developer (Frontend Focus)** with 6+ years of IT experience  
 🚀 Passionate about building scalable, user-friendly web applications  
 
 ---
