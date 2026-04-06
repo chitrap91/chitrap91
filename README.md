@@ -72,8 +72,8 @@ https://ornate-twilight-62d8ce.netlify.app/
 
 ## 📫 Connect With Me
 
-- 💼 LinkedIn: (Add your LinkedIn link)
-- 📧 Email: (Optional)
+- 💼 LinkedIn: https://www.linkedin.com/in/chitrakrishnan1291/
+- 📧 Email: chitrakrishnan1291@gmail.com
 
 ---
 
