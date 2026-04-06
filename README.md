@@ -1,6 +1,7 @@
 # 👋 Hi, I'm Citra Devi
 
 💻 **Full Stack Developer (Frontend Focus)** with 6+ years of IT experience  
+
 🚀 Passionate about building scalable, user-friendly web applications  
 
 ---
@@ -24,14 +25,17 @@
 ### 🎵 Music Streaming Web Application
 
 🔗 **Live Demo:**  
+
 https://ornate-twilight-62d8ce.netlify.app/
 
 🔗 **GitHub Repo:**  
+
 [Music App FrontEnd](https://github.com/chitrap91/music-player-frontend)
 
 [Music App Backend](https://github.com/chitrap91/music-player-backend)
 
 **Highlights:**
+
 - Built using **MERN Stack (React, Node.js, Express, MongoDB)**
 - Implemented **JWT Authentication & Authorization**
 - Integrated **AWS S3 for audio storage & streaming**
