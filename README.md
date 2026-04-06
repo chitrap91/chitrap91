@@ -8,9 +8,13 @@
 ## 👩‍💻 About Me
 
 🔹 Skilled in **React.js, JavaScript (ES6+), HTML5, Tailwind CSS**
+
 🔹 Experience building **interactive dashboards & UI components**
+
 🔹 Strong in **REST API integration & performance optimization**
+
 🔹 Hands-on with **MERN Stack (MongoDB, Express, React, Node.js)**
+
 🔹 Focused on writing **clean, reusable, and maintainable code**
 
 ---
