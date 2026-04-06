@@ -24,6 +24,7 @@ https://ornate-twilight-62d8ce.netlify.app/
 
 🔗 **GitHub Repo:**  
 [Music App FrontEnd](https://github.com/chitrap91/music-player-frontend)
+
 [Music App Backend](https://github.com/chitrap91/music-player-backend)
 
 **Highlights:**
